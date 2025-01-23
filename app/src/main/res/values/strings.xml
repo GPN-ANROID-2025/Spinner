@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpinnerAutoComplete</string>
+
+    <string-array name="cities">
+        <item>Nashik</item>
+        <item>Nashik</item>
+        <item>Nashik</item>
+        <item>Nashik</item>
+        <item>Nashik</item>
+        <item>Pune</item>
+    </string-array>
+</resources>
